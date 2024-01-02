@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TinyWorkflowEngine.Repository/1.0.0": {
+        "dependencies": {
+          "TinyWorkflowEngine.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "TinyWorkflowEngine.Repository.dll": {}
+        }
+      },
+      "TinyWorkflowEngine.Infrastructure/1.0.0": {
+        "runtime": {
+          "TinyWorkflowEngine.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TinyWorkflowEngine.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TinyWorkflowEngine.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

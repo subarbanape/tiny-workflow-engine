@@ -1,0 +1,5 @@
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine\obj\Debug\net6.0\TinyWorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine\obj\Debug\net6.0\TinyWorkflowEngine.AssemblyInfoInputs.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine\obj\Debug\net6.0\TinyWorkflowEngine.AssemblyInfo.cs
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine\obj\Debug\net6.0\TinyWorkflowEngine.csproj.CoreCompileInputs.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine\obj\Debug\net6.0\TinyWorkflowEngine.csproj.AssemblyReference.cache

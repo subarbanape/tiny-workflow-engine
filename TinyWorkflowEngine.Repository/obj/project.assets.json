@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TinyWorkflowEngine.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TinyWorkflowEngine.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TinyWorkflowEngine.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TinyWorkflowEngine.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../TinyWorkflowEngine.Infrastructure/TinyWorkflowEngine.Infrastructure.csproj",
+      "msbuildProject": "../TinyWorkflowEngine.Infrastructure/TinyWorkflowEngine.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TinyWorkflowEngine.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vinayaka.amaresh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\vinu\\personal\\github\\tiny-workflow-engine\\TinyWorkflowEngine\\TinyWorkflowEngine.Repository\\TinyWorkflowEngine.Repository.csproj",
+      "projectName": "TinyWorkflowEngine.Repository",
+      "projectPath": "C:\\vinu\\personal\\github\\tiny-workflow-engine\\TinyWorkflowEngine\\TinyWorkflowEngine.Repository\\TinyWorkflowEngine.Repository.csproj",
+      "packagesPath": "C:\\Users\\vinayaka.amaresh\\.nuget\\packages\\",
+      "outputPath": "C:\\vinu\\personal\\github\\tiny-workflow-engine\\TinyWorkflowEngine\\TinyWorkflowEngine.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vinayaka.amaresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\vinu\\personal\\github\\tiny-workflow-engine\\TinyWorkflowEngine\\TinyWorkflowEngine.Infrastructure\\TinyWorkflowEngine.Infrastructure.csproj": {
+              "projectPath": "C:\\vinu\\personal\\github\\tiny-workflow-engine\\TinyWorkflowEngine\\TinyWorkflowEngine.Infrastructure\\TinyWorkflowEngine.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

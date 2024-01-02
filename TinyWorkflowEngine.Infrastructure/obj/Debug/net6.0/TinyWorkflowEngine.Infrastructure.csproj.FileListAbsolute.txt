@@ -1,0 +1,11 @@
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\TinyWorkflowEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\TinyWorkflowEngine.Infrastructure.AssemblyInfoInputs.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\TinyWorkflowEngine.Infrastructure.AssemblyInfo.cs
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\TinyWorkflowEngine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\bin\Debug\net6.0\TinyWorkflowEngine.Infrastructure.deps.json
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\bin\Debug\net6.0\TinyWorkflowEngine.Infrastructure.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\bin\Debug\net6.0\TinyWorkflowEngine.Infrastructure.pdb
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\TinyWorkflowEngine.Infrastructure.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\refint\TinyWorkflowEngine.Infrastructure.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\TinyWorkflowEngine.Infrastructure.pdb
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Infrastructure\obj\Debug\net6.0\ref\TinyWorkflowEngine.Infrastructure.dll

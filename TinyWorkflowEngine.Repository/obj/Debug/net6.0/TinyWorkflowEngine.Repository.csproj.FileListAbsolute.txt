@@ -1,0 +1,15 @@
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.AssemblyInfoInputs.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.AssemblyInfo.cs
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.csproj.CoreCompileInputs.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\bin\Debug\net6.0\TinyWorkflowEngine.Repository.deps.json
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\bin\Debug\net6.0\TinyWorkflowEngine.Repository.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\bin\Debug\net6.0\TinyWorkflowEngine.Repository.pdb
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\bin\Debug\net6.0\TinyWorkflowEngine.Infrastructure.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\bin\Debug\net6.0\TinyWorkflowEngine.Infrastructure.pdb
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.csproj.AssemblyReference.cache
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.csproj.CopyComplete
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\refint\TinyWorkflowEngine.Repository.dll
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\TinyWorkflowEngine.Repository.pdb
+C:\vinu\personal\github\tiny-workflow-engine\TinyWorkflowEngine\TinyWorkflowEngine.Repository\obj\Debug\net6.0\ref\TinyWorkflowEngine.Repository.dll
